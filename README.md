@@ -17,6 +17,8 @@ Using for loop calculate the cpu usage for each node.
 Compile and Run the Program.
 ## Program:
 ```
+Developed By : Sowmiya N
+Register No : 212221230106
 using System;
 namespace standard
 {
